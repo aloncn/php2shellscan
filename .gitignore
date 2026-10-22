@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.json.report
+report*.json
+.venv/
+venv/
+.DS_Store
+targets*.txt
